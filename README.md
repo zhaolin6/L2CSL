@@ -2,7 +2,7 @@
 
 <hr>
 
-### <font color='#88CDF6'> Lin Zhao, Wenqiang Luo, Qiming Liao, Siyuan Chen, Jianhui Wu</font>
+<font color='#88CDF6'> Lin Zhao, Wenqiang Luo, Qiming Liao, Siyuan Chen, Jianhui Wu</font>
 
 <hr>
 The code in this toolbox implements the
