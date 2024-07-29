@@ -1,7 +1,5 @@
 ### Hyperspectral Image Classification With Contrastive Self-Supervised Learning Under Limited Labeled Samples
 
-<hr>
-
 <font color='#88CDF6'> Lin Zhao, Wenqiang Luo, Qiming Liao, Siyuan Chen, Jianhui Wu</font>
 
 <hr>
