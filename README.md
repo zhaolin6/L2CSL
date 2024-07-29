@@ -15,7 +15,7 @@ More specifically, it is detailed as follow.
 
 Four kinds of HSI transformation operations are detailed as follow:
 
-![](Operations.png)
+![](operations.png)
 
 
 ### System-Spefic notes:
